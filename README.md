@@ -1,2 +1,2 @@
-# Darinox GDPS ( Geometry Dash Private Server )
+# Darinox GDPS
 ## Read informations for GDPS
