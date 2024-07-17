@@ -1,0 +1,1 @@
+License by Darinox Inc
